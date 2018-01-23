@@ -1,22 +1,5 @@
-=====================================
-Discogs Takehome Assignment: Currency
-=====================================
-
-Thanks for applying at Discogs!
-
-We want to assess your technical ability, but we also think coding under pressure in an interview is a terrible way to do that.
-
-So as a compromise, here's a takehome exercise that's a simplified version of work you'd be doing at Discogs if you were hired.
-
-Our goal is for this to take an hour (maybe two hours tops, if you're not very familiar with Python).
-If it takes longer than that, we've failed, and you should let us know!
-
-If we've made an error so grievous that you don't think you can finish the assignment, or you have any other questions after reviewing this document, feel free to email jhawkins@discogsinc.com and let Jason Hawkins know.
-
-
 Description of the Problem
 ==========================
-As we break the Discogs app up into smaller microservices, currency is one of our targets to break away from our main site.
 
 Your assignment is to create a simple currency service that can provide conversion rates and convert currencies for consumers.
 
@@ -71,20 +54,3 @@ Please add the following endpoints to this API:
             'to': 'GBP',
             'converted_amount':'23.06'
         }
-
-
-Finished?
-==========
-Congrats!
-
-To get the code back to us, please either:
-- zip it up and email it to jhawkins@discogsinc.com, or
-- create a public Github repo for your finished code, and email the link to jhawkins@discogsinc.com
-
-We're not going to hold you to a deadline, but if you can give us at least 24 hours before your interview, it'd be appreciated - we'll get to ask more interesting questions, too.
-
-If you run out of time and have to bring a laptop to demo the code instead, no big deal!
-You'll just need a way to plug an HDMI cable into your laptop to project your screen.
-
-See you soon, and thank you!
-Discogs Marketplace Squad
